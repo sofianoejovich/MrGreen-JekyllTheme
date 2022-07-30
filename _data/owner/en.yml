@@ -2,10 +2,10 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Sofia's Brand"
+brand: "TriCoffeData"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "$Exploring the joys of life + data"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Sofia Isabel Noejovich"
