@@ -36,7 +36,4 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+I have no idea how this is going to appear. 
